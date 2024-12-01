@@ -1,0 +1,18 @@
+2024/12/01 14:18:24 INFO  - jmeter.util.JMeterUtils: Setting Locale to es_ES 
+2024/12/01 14:18:24 INFO  - jmeter.util.JMeterUtils: Could not find resources for 'es_ES', using 'es' 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: Loading user properties from: /usr/share/jmeter/bin/user.properties 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: Loading system properties from: /usr/share/jmeter/bin/system.properties 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: Version 2.13.20180731 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: java.version=11.0.25 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: java.vm.name=OpenJDK 64-Bit Server VM 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: os.name=Linux 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: os.arch=amd64 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: os.version=5.4.0-200-generic 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: Default Locale=español (España) 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: JMeter  Locale=español (España) 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: JMeterHome=/usr/share/jmeter 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: user.dir  =/home/estudiante/pruebas 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: PWD       =/home/estudiante/pruebas 
+2024/12/01 14:18:24 INFO  - jmeter.JMeter: IP: 127.0.1.1 Name: admonsis-vm FullName: admonsis-vm 
